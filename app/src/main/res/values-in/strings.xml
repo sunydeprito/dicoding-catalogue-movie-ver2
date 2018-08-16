@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Katalog Film Ver.2.0</string>
+    <string name="nav_header_title">Achmad Raditya Suny Deprito</string>
+    <string name="nav_header_subtitle">deprito.suny@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="title_activity_home_tab_fragment">HomeTabFragment</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!--for localization-->
+    <string name="find_movie">Masukan Judul Film</string>
+    <string name="find">CARI</string>
+    <string name="title">Judul</string>
+    <string name="overview">Deskripsi</string>
+    <string name="date_release">Tanggal Tayang</string>
+    <string name="now_playing">SAAT INI</string>
+    <string name="upcoming">AKAN DATANG</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="navigation_drawer_open">Buka drawer navigasi</string>
+    <string name="navigation_drawer_close">Tutup drawer navigasi</string>
+    <string name="home">Beranda</string>
+    <string name="findmovie">Cari Film</string>
+    <string name="find_title">CARI FILM</string>
+    <string name="movieTitle">Judul Film</string>
+    <string name="movieOverview">Deskripsi</string>
+    <string name="releaseDate">Tanggal Tayang</string>
+    <string name="favorite">Favorit</string>
+    <string name="share">Bagikan</string>
+    <string name="image_movie">Judul Film</string>
+</resources>
