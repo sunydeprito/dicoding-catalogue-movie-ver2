@@ -27,6 +27,7 @@ This is the second project of MADE course in dicoding.com academy. The aim of th
 4. [CircleImageView by hdodenhof](https://github.com/hdodenhof/CircleImageView) - A fast circular ImageView perfect for profile images
 5. [Fancybuttons by medyo](https://github.com/medyo/Fancybuttons) - Icons, Borders, Radius ... for Android buttons
 6. [Butter Knife](http://jakewharton.github.io/butterknife/) - Field and method binding for Android views
+7. [Volley](https://github.com/google/volley) - an HTTP library that makes networking for Android apps easier and, most importantly, faster.
 
 # Please be Noted
 For those who still do the project in MADE course please use this as reference only. Do not exactly copy this project without understand the concepts and flows of the codes. Hope this will help you to develop more project.
