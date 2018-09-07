@@ -30,4 +30,4 @@ This is the second project of MADE course in dicoding.com academy. The aim of th
 7. [Volley](https://github.com/google/volley) - an HTTP library that makes networking for Android apps easier and, most importantly, faster.
 
 # Please be Noted
-For those who still do the project in MADE course please use this as reference only. Do not exactly copy this project without understand the concepts and flows of the codes. Hope this will help you to develop more project.
+For those who still do the project in MADE course please use this as reference only. Hope this will help you to develop more project.
